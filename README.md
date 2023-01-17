@@ -1,6 +1,10 @@
 # Demo: How to add code coverage badge + report using Codecov and Clover
 
 
+[![codecov](https://codecov.io/gh/damnePers/demo-coverage-setup/branch/main/graph/badge.svg)](https://codecov.io/gh/damnePers/demo-coverage-setup)
+
+
+
 
 [![codecov](https://codecov.io/gh/damnePers/demo-coverage-setup/branch/main/graph/badge.svg)](https://codecov.io/gh/damnePers/demo-coverage-setup)
 
