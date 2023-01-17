@@ -155,5 +155,5 @@ In terminal, run:
 again to genreate an updated report, and open it with the same command as before:
   
     $ open /your-path/index.html
-    
+    h
 The report and the badge should now be updated to match the added tests.
